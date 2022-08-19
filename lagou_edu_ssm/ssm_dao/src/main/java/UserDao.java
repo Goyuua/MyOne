@@ -12,4 +12,8 @@ public class UserDao {
         String s3 = null;
         String s4 = null;
     }
+
+    public void eating(){
+        System.out.println("我会吃饭");
+    }
 }
