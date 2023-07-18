@@ -18,6 +18,8 @@ public class UserDao {
         System.out.println("我会吃饭");
         System.out.println("我会吃饭");
         System.out.println("我会吃饭");
+        System.out.println("游泳");
+        System.out.println("游泳");
 
 
     }
