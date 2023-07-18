@@ -15,5 +15,10 @@ public class UserDao {
 
     public void eating(){
         System.out.println("我会吃饭");
+        System.out.println("我会吃饭");
+        System.out.println("我会吃饭");
+        System.out.println("我会吃饭");
+
+
     }
 }
